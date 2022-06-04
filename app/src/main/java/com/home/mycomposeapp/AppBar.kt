@@ -7,7 +7,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.res.stringResource
 
 @Composable
-fun AppBAr(
+fun AppBar(
     onNavigationClick: () -> Unit
 ) {
     TopAppBar(
